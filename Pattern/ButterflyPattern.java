@@ -1,3 +1,19 @@
+//Enter range : 5
+// *        *
+// **      **
+// ***    ***
+// ****  ****
+// **********
+// **********
+// ****  ****
+// ***    ***
+// **      **
+// *        *
+
+
+// Code -
+
+
 import java.util.*;
 
 public class ButterflyPattern {
